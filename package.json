@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demistified",
+  "version": "1.0.0",
+  "description": "a project to practice using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianlancaster/webpack-demistified.git"
+  },
+  "keywords": [
+    "webpack",
+    "tutorial"
+  ],
+  "author": "Ian Lancaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianlancaster/webpack-demistified/issues"
+  },
+  "homepage": "https://github.com/ianlancaster/webpack-demistified#readme"
+}
